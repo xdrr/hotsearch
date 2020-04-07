@@ -65,7 +65,7 @@ automatically.
 
 ## FAQ
 
-**All I see is "Bad response [403]: <h1>Not Authorized</h1>"**
+**All I see is "Bad response [403]: Not Authorized"**
 
 This means you've specified an invalid or expired signature value. Obtain a new value by following the process
 described in [Caveats](#Caveats).
